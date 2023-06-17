@@ -11,7 +11,7 @@
 </ul>
 Ejercicio_41 = Ejercicio 8.2 pagina 483 (Texto: Ejercicios de programación)
 
-figuras_2 = pagina 495 (Texto: Ejercicios de programación)
+figuras_2 = Ejercicio 8.3 pagina 495 (Texto: Ejercicios de programación)
 
 Fecha de Entrega: 06 de Junio 2023
 
